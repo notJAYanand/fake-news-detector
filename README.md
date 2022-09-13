@@ -1,1 +1,1 @@
-# fake-mail-detector
+# fake-news-detector
